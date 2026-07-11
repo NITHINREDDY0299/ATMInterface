@@ -108,9 +108,4 @@ BankManagementSystem/
 2. Right-click project → Run As → Run on Server (Tomcat 9+)
 3. Access the application at the URL shown in the console
 
-## Submission
 
-As per project requirements:
-1. Copy all source code into a Word document
-2. Convert the Word document to PDF
-3. Upload the PDF to the submission form
